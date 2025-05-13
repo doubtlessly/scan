@@ -1,0 +1,12 @@
+ccxt>=3.0.0
+asyncio
+websockets
+pandas
+numpy
+lightgbm
+scikit-learn
+python-dotenv
+requests
+python-telegram-bot
+openai>=1.0.0
+
