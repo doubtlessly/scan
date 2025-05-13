@@ -10,3 +10,5 @@ requests
 python-telegram-bot
 openai>=1.0.0
 
+catboost
+joblib
